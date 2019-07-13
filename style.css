@@ -53,5 +53,5 @@ grid-row: 3;
 .sliced-images img {
   width: 200px;
   height: 200px;
-//  border-left: 4px solid black;
+ border-left: 4px solid black;
 }
